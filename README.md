@@ -17,6 +17,7 @@ The:
 "git commit" this command takes evrything saved on the staging area and stores it permanently in the local Git repository
 
 PART 3- BRANCHING CHALLENGE
+
 To create a new branch we use the command "git checkout"  in our case we did "git checkout -b update-learning-goal" creates a new branch update-learning- goals and switched us to the branch immediately.
 
 PART 4- BASIC RESEARCH TASK
@@ -28,6 +29,7 @@ This is the delivery of IT services like database,servers,networking over the in
 2. What is DevOps?
    
 Is a software development methodology that unites development and operations team to deliver software faster, more securely and more efficiently.
+
 3. Difference between Docker and Kubernetes?
    
 Docker is used to create and package applications into "containers," while kubernetes is used to manage and coodinate those containers across different servers
