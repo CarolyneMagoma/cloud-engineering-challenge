@@ -1,0 +1,24 @@
+name=Carolyne Magoma
+University=Machakos University
+course=Cloud computing and information security
+ 
+why cloud?
+
+cloud computing is the future of technology, and it is such an intresting concept to work on, the cloud enables people to acqire IT resources via the 
+internet. I would choose the cloud because:
+ 
+1. On-demand concept;
+
+where you can access your services from anywhere all over the world,whenever you need them.
+
+2. Pay as you use;
+cloud anables people to pay for only what they use, the resources and time used
+
+3. Reliablity and backup;
+
+cloud resources are stored across many regions, this enables the resources to be accessed easily and in case one region has disaster the other regions get to backup the resources.
+
+4. Scalability;
+
+cloud anables one to scale up and down according to the need ie incase the demand for resources is high, one is able to scale up to meet the demand and viceversa.
+

@@ -1,0 +1,23 @@
+
+Goals: 
+
+Technical mastery
+Automation and scalability
+Business reliability and security
+
+
+Skills
+On this course i expect to learn this skills : 
+
+Linux
+Networking
+Git/GitHub
+Bash scripting
+Basic cloud concepts
+Docker
+Kubernetes
+Terraform
+CI/CD
+Monitoring
+security
+Advanced cloud networking
